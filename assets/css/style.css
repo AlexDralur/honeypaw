@@ -8,15 +8,37 @@
 
 body{
     font-family: "Poppins", sans-serif;
+    color: #51A3A3;
 }
 
 /* header */
 h1 {
     font-family: "Rubik", sans-serif;
     text-transform: uppercase;
-    color: #d1d1d1;
 }
 
 .container-header{
-    background-color: #DD7373;
+    background-color:#3B3561;
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+.row-header{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col-20-logo{
+    width: 100%;
+    margin: 7px;
+}
+
+.col-20-nav{
+    width: 100%;
+}
+
+.col-20-nav li {
+    display: inline-block;
+    margin: auto 10px 10px auto;
 }
