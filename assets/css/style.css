@@ -12,3 +12,7 @@ h1 {
     text-transform: uppercase;
     color: #d1d1d1;
 }
+
+.container-header{
+    background-color: #DD7373;
+}
