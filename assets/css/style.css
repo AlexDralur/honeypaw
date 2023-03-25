@@ -64,11 +64,22 @@ li > a:hover{
 .row-about-us{
     display: flex;
     flex-wrap: wrap;
+    overflow: hidden;
+    position: relative;
 }
 
 /* Image by <a href="https://www.freepik.com/free-photo/beautiful-pet-portrait-small-dog-cat_21249175.htm#query=dog%20cat&position=7&from_view=search&track=ais">Freepik</a> --> */
 .col-50-image{
     height: 600px;
     width: 100%;
-    background: url(../images/beautiful-pet-portrait-small-dog-cat.webp) no-repeat center center contain;
+    background: url(../images/beautiful-pet-portrait-small-dog-cat.webp) no-repeat center center;
+}
+
+.col-50-text{
+    background-color: rgba(209, 209, 209, .7);
+    position: absolute;
+    color: #000;
+    margin: 20%;
+    padding: 20px;
+    text-align: justify;
 }
