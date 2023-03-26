@@ -107,3 +107,25 @@ li > a:hover{
     width: 100%;
     height: 150px;
 }
+
+.col-25-services-1{
+    background: url(../images/vet-examining-beagle-sm.webp) no-repeat center center;
+    width: 100%;
+    height: 150px;
+    color: inherit;
+    text-align: center;
+    color: rgba(0, 0, 0, 0);
+}
+
+.text-and-hover-effect > h3{
+    padding-top: 40px;
+    color: #fff;
+}
+
+.text-and-hover-effect:hover{
+    background-color: rgba(209, 209, 209, .7);
+    color: #000;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+}
