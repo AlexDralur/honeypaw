@@ -151,3 +151,13 @@ li > a:hover{
     color: rgba(0, 0, 0, 0);
 }
 
+/* form and iframe section */
+
+#contact-us{
+    background-color: #3B3561;
+    text-align: center;
+}
+
+/* #contact-us h3{
+    text-align: center;
+} */
