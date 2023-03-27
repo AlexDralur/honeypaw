@@ -183,3 +183,8 @@ border-radius: 10px;
 height: 25px;
 margin-bottom: 20px;
 }
+
+#message{
+    margin: 10px auto auto 10px;
+    border-radius: 20px;
+}
