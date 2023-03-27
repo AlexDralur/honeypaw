@@ -155,9 +155,8 @@ li > a:hover{
 
 #contact-us{
     background-color: #3B3561;
-    text-align: center;
 }
 
-/* #contact-us h3{
-    text-align: center;
-} */
+#contact-us h3{
+    padding: 10px;
+}
