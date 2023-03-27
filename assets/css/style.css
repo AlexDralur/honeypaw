@@ -158,11 +158,12 @@ li > a:hover{
 }
 
 #contact-us h3{
-    padding: 10px;
+    margin: auto auto 20px 3%;
+    padding-top: 20px;
 }
 
 #contact-us label{
-    padding-left: 10px;
+    padding-left: 3%;
 }
 
 .label-name{
@@ -185,6 +186,21 @@ margin-bottom: 20px;
 }
 
 #message{
-    margin: 10px auto auto 10px;
+    margin: 10px auto auto 3%;
     border-radius: 20px;
+}
+
+button{
+    height: 25px;
+    width: 150px;
+    padding: 5px;
+    border-radius: 5px;
+    margin: auto auto 20px 48%;
+    background-color: #D1D1D1;
+    color:#000;
+}
+
+button:hover{
+    background-color: #51A3A3;
+    color:#fff;
 }
