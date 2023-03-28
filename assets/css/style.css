@@ -204,3 +204,8 @@ button:hover{
     background-color: #51A3A3;
     color:#fff;
 }
+
+iframe{
+    width: 100%;
+    height: 300px;
+}
