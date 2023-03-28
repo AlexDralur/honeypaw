@@ -186,6 +186,10 @@ margin-bottom: 20px;
 border: 1px solid #000;
 }
 
+select{
+    padding-left: 10px;
+}
+
 #message{
     margin: 10px auto auto 3%;
     border-radius: 20px;
