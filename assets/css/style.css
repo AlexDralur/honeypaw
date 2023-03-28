@@ -225,6 +225,7 @@ button:hover{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    padding-top: 15px;
 }
 
 .col-100-social-networks li{
