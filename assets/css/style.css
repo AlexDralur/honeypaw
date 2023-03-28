@@ -218,4 +218,12 @@ button:hover{
 .row-footer{
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+}
+
+.col-100-social-networks li{
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    height: 20px;
 }
