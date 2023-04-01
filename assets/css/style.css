@@ -104,6 +104,7 @@ li > a:hover{
 
 .col-25-services-1{
     background: url(../images/vet-examining-beagle-sm.webp) no-repeat center center;
+    background-size: cover;
     width: 100%;
     height: 150px;
     color: inherit;
@@ -126,6 +127,7 @@ li > a:hover{
 
 .col-25-services-2{
     background: url(../images/bath-dog-sm.webp) no-repeat center center;
+    background-size: cover;
     width: 100%;
     height: 150px;
     color: inherit;
@@ -135,6 +137,7 @@ li > a:hover{
 
 .col-25-services-3{
     background: url(../images/grooming-dog-sm.webp) no-repeat center center;
+    background-size: cover;
     width: 100%;
     height: 150px;
     color: inherit;
@@ -144,6 +147,7 @@ li > a:hover{
 
 .col-25-services-4{
     background: url(../images/dog-in-bed-sm.webp) no-repeat center center;
+    background-size: cover;
     width: 100%;
     height: 150px;
     color: inherit;
