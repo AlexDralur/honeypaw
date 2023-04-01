@@ -287,4 +287,18 @@ button:hover{
     .text-and-hover-effect h3{
         padding-top: 25%;
     }
+
+    .col-25-services-3{
+        background: url(../images/grooming-dog-medium.jpg) no-repeat center center;
+        background-size: cover;
+        width: 50%;
+        height: 300px;
+    }
+
+    .col-25-services-4{
+        background: url(../images/bath-dog-medium.jpg) no-repeat center center;
+        background-size: cover;
+        width: 50%;
+        height: 300px;
+    }
 }
