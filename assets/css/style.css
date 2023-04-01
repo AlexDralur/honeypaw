@@ -275,9 +275,6 @@ button:hover{
         background-size: cover;
         width: 50%;
         height: 300px;
-        color: inherit;
-        text-align: center;
-        color: rgba(0, 0, 0, 0);
     }
 
     .col-25-services-2{
@@ -285,9 +282,6 @@ button:hover{
         background-size: cover;
         width: 50%;
         height: 300px;
-        color: inherit;
-        text-align: center;
-        color: rgba(0, 0, 0, 0);
     }
 
     .text-and-hover-effect h3{
