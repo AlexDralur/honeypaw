@@ -121,7 +121,7 @@ li > a:hover{
     background-color: rgba(209, 209, 209, .7);
     color: #000;
     width: 100%;
-    height: 150px;
+    height: inherit;
     text-align: center;
 }
 
@@ -264,6 +264,11 @@ button:hover{
     }
 
     /* services section */
+
+    .text-and-hover-effect{
+        height: inherit;
+        width: 100%;
+    }
 
     .col-25-services-1{
         background: url(../images/vet-examining-beagle-medium.jpg) no-repeat center center;
