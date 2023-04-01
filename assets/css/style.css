@@ -254,8 +254,9 @@ button:hover{
         position:relative;
         color: #000;
         margin: 0;
-        padding: 20px;
+        padding-top: 30px;
         text-align: justify;
+        height: 150px;
     }
 
     /* services section */
@@ -271,7 +272,8 @@ button:hover{
     }
 
     .col-25-services-2{
-        background: url(../images/bath-dog-sm.webp) no-repeat center center;
+        background: url(../images/bath-dog-medium.jpg) no-repeat center center;
+        background-size: cover;
         width: 50%;
         height: 300px;
         color: inherit;
