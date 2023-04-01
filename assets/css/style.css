@@ -301,4 +301,20 @@ button:hover{
         width: 50%;
         height: 300px;
     }
+
+    /* contact us section */
+
+    .row-contact-us{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .col-50-form{
+        width: 50%;
+    }
+
+    .col-50-iframe{
+        width: 50%;
+        height: 100%;
+    }
 }
