@@ -158,6 +158,7 @@ li > a:hover{
 /* form and iframe section */
 
 #contact-us {
+    /* <a href="https://www.freepik.com/free-vector/abstract-pattern-design_1049012.htm#query=pet%20patterny&position=0&from_view=search&track=ais">Image by flatart</a> on Freepik */
     background: url(../images/pattern_contact_us.webp);
 }
 
@@ -183,7 +184,7 @@ li > a:hover{
 }
 
 .input-style{
-width: 250px;
+width: 75%;
 border-radius: 10px;
 height: 25px;
 margin-bottom: 20px;
