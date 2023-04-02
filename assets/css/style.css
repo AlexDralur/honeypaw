@@ -322,6 +322,15 @@ button:hover{
         width: 50%;
         height: 100%;
     }
+    
+    .col-50-iframe h3{
+        margin-left: 0;
+    }
+
+    .col-50-iframe p{
+        padding-left: 0;
+    }
+
 
     /* footer section */
 
