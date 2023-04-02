@@ -156,10 +156,10 @@ li > a:hover{
 }
 
 /* form and iframe section */
-/* 
-#contact-us{
-    background-color: #3B3561;
-} */
+
+#contact-us {
+    background: url(../images/pattern_contact_us.webp);
+}
 
 #contact-us h3{
     margin: auto auto 20px 3%;
@@ -213,6 +213,11 @@ button{
 button:hover{
     background-color: #51A3A3;
     color:#fff;
+}
+
+.col-50-iframe p{
+    padding-left: 3%;
+    padding-bottom: 2%;
 }
 
 /* footer section */
