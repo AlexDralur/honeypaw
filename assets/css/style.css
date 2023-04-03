@@ -349,3 +349,16 @@ button:hover{
         font-size: 30px;
     }
 }
+
+@media screen and (min-width: 1025px){
+    .row-about-us{
+        height: 600px;
+    }
+
+   .col-50-image, .col-50-text{
+    width: 50%;
+    height: inherit;
+   }
+   .col-50-image{
+    background-size: cover;
+   }
