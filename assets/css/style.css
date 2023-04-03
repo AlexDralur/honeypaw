@@ -351,6 +351,9 @@ button:hover{
 }
 
 @media screen and (min-width: 1025px){
+
+    /* contact us section */
+
     .row-about-us{
         height: 600px;
     }
@@ -375,6 +378,9 @@ button:hover{
    .col-50-text p{
     padding: 40px;
    }
+
+    /* services section */
+
 
    .text-and-hover-effect h3{
     padding-top: 15%;
