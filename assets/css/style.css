@@ -375,4 +375,8 @@ button:hover{
    .col-50-text p{
     padding: 40px;
    }
+
+   .text-and-hover-effect h3{
+    padding-top: 15%;
+}
 }
