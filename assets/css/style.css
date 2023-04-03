@@ -355,10 +355,24 @@ button:hover{
         height: 600px;
     }
 
-   .col-50-image, .col-50-text{
-    width: 50%;
-    height: inherit;
-   }
    .col-50-image{
+    width: 70%;
+    height: inherit;
     background-size: cover;
+
    }
+
+   .col-50-text{
+    width: 30%;
+    height: inherit;
+    padding: 0;
+   }
+
+   .col-50-text h2{
+    padding: 40px;
+   }
+
+   .col-50-text p{
+    padding: 40px;
+   }
+}
