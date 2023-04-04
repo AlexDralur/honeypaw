@@ -114,7 +114,11 @@ li > a:hover{
 
 .text-and-hover-effect > h3{
     padding-top: 40px;
-    color: inherit;
+}
+
+.text-and-hover-effect > h3 > span{
+    padding: 0 5px;
+    color: #51A3A3;
     background-color:#3B3561;
 }
 
