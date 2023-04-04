@@ -263,6 +263,7 @@ button:hover{
         height: 400px;
         width: 100%;
         background: url(../images/beautiful-pet-portrait-small-dog-cat.webp) no-repeat center center;
+        background-size: cover;
     }
     .col-50-text{
         background-color: rgba(209, 209, 209, .7);
@@ -370,7 +371,9 @@ button:hover{
     height: 300px;
     padding: 0;
     position: absolute;
-    margin: 15% 10% 5% 55%;
+    margin: 50px auto auto 50px;
+    background-color: transparent;
+    color: #fff;
    }
 
    .col-50-text h2{
