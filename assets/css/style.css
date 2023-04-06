@@ -68,7 +68,7 @@ li > a:hover{
     position: relative;
 }
 
-/* Image by <a href="https://www.freepik.com/free-photo/beautiful-pet-portrait-small-dog-cat_21249175.htm#query=dog%20cat&position=7&from_view=search&track=ais">Freepik</a> --> */
+/* <a href="https://www.freepik.com/free-psd/group-portrait-adorable-puppies_3730286.htm#query=PETS&position=3&from_view=search&track=sph">Image by rawpixel.com</a> on Freepik */
 .col-50-image{
     height: 600px;
     width: 100%;
@@ -268,9 +268,8 @@ button:hover{
     .col-50-image{
         height: 400px;
         width: 100%;
-        background: url(../images/hero_image.jpg) no-repeat center center;
-        background-size: cover;
     }
+
     .col-50-text{
         background-color: rgba(209, 209, 209, .7);
         position:relative;
@@ -370,6 +369,13 @@ button:hover{
     height: inherit;
     background-size: cover;
 
+   }
+
+   .background-color-desktop{
+    width: 100%;
+    height: inherit;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.7);
    }
 
    .col-50-text{
