@@ -76,6 +76,12 @@ li > a:hover{
     background-size: cover;
 }
 
+.background-color-desktop{
+    height: inherit;
+    width: 100%;
+    position: absolute;
+}
+
 .col-50-text{
     background-color: rgba(209, 209, 209, .7);
     position: absolute;
@@ -264,7 +270,9 @@ button:hover{
         display: flex;
         flex-wrap: wrap;
     }
-
+    .background-color-desktop{
+        position: unset;
+    }
     .col-50-image{
         height: 400px;
         width: 100%;
@@ -372,10 +380,8 @@ button:hover{
    }
 
    .background-color-desktop{
-    width: 100%;
-    height: inherit;
-    position: absolute;
     background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
    }
 
    .col-50-text{
