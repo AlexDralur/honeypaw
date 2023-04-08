@@ -266,6 +266,9 @@ button:hover{
 
     /* about us section */
 
+    .container-about-us{
+        height: fit-content;
+    }
     .row-about-us{
         display: flex;
         flex-wrap: wrap;
@@ -279,13 +282,8 @@ button:hover{
     }
 
     .col-50-text{
-        background-color: rgba(209, 209, 209, .7);
-        position:relative;
-        color: #000;
-        margin: 0;
+        margin: 10% 20px;
         padding-top: 30px;
-        text-align: justify;
-        height: 150px;
     }
 
     /* services section */
