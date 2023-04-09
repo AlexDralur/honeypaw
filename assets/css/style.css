@@ -79,6 +79,8 @@ li > a:hover{
     height: inherit;
     width: 100%;
     position: absolute;
+    display: flex;
+    justify-content: center;
 }
 
 .col-50-text{
@@ -415,6 +417,7 @@ button:hover{
    .background-color-desktop{
     background-color: rgba(0, 0, 0, 0.7);
     position: absolute;
+    justify-content:unset;
    }
 
    .col-50-text{
