@@ -92,6 +92,13 @@ li > a:hover{
 
 .col-100-about-us-text{
     height: fit-content;
+    padding: 5%;
+    text-align: justify;
+}
+
+.col-100-about-us-text p{
+    color: #3B3561;
+    padding-top: 5px;
 }
 
 /* Services section */
