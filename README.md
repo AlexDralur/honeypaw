@@ -156,4 +156,4 @@ Services images:
 . <a href="https://www.freepik.com/free-photo/haircuting-process-small-dog-sits-table-dog-with-professional_17066326.htm#query=dog%20grooming&position=4&from_view=search&track=ais">Image by prostooleh</a> on Freepik
 . <a href="https://www.freepik.com/free-photo/dog-bed-morning_6978017.htm#query=hotel%20dog&position=26&from_view=search&track=ais">Image by Racool_studio</a> on Freepik
 
-Contact us image: <a href="https://www.freepik.com/free-vector/abstract-pattern-design_1049012.htm#query=pet%20patterny&position=0&from_view=search&track=ais">Image by flatart</a> on Freepik
+Contact us image: <a href="https://www.freepik.com/free-vector/abstract-pattern-design_1049012.htm#query=pet%20patterny&position=0&from_view=search&track=ais">Image by flatart</a> on Freepiks
