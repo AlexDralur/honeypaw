@@ -73,22 +73,26 @@ The objective of the colors of the site was to bring some joy to the user. Pets 
 * The navigation bar is divided in two sections: the logo and the areas of the page
 * Each area, when hovered, changes color to provide clarity that it will bring the user to that section
 * Due to the conciseness of the website, there was no necessity of changing the structure of the header depending on the screen size.
+![Navigation Bar screenshot](assets/images/navigation-bar-screenshot.png)
 
 #### *Services:*
 
 * There are four main services in Honeypaw: veterinary appointments, bath, grooming and the hotel.
 * Each one of them has specific working hours.
 * When viewed on tablet screens or higher, each service has a hover effect that only shows the days/hours when the mouse hover each one.
+![Services screenshot](assets/images/services-section-screenshot.png)
 
 #### *Contact Us:*
 
 * The contact us section is divided in two mini-sections: a form and a Google Maps iframe.
 * On the form, the users can send their queries about each one of the services provided, or other if it is beyond that. They must provide a valid email and they must fill out the name and textarea to be able to send the message.
 * On the iframe it is displayed the location of the Douglas Shopping Centre and right above it there is the typed details.
+![Contact Us screenshot](assets/images/contact-us-section-screenshot.png)
 ​
 #### *Footer:*
 
 * The footer has the logos for the main social media plataforms: Facebook, Twitter, Instagram and Youtube, with links that opens new tabs when clicked.
+![Footer screenshot](assets/images/footer-screenshot.png)
 
 #### *Thank You:*
 
