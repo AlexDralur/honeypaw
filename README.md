@@ -17,6 +17,7 @@ The Honeypaw website was designed having in mind a veterinary shop that also has
     * [***Services***](#services)
     * [***Contact Us***](#services)
     * [**Footer**](#footer)
+    * [**Thank You**](#thankyou)
 1. [**Future-Enhancements**](#future-enhancements)
 1. [**Testing Phase**](#testing-phase)
 1. [**Deployment**](#deployment)
@@ -89,29 +90,25 @@ The objective of the colors of the site was to bring some joy to the user. Pets 
 
 * The footer has the logos for the main social media plataforms: Facebook, Twitter, Instagram and Youtube, with links that opens new tabs when clicked.
 
-#### *features
-​
-* This is where you will place all of your features think about each section of the page include a screenshot and a few bullet points on how it's presented and why
+#### *Thank You:*
+
+* After the user fills out the form and press send, they are taken to the thank you where they are informed that the message has been sent to the company and that it will be checked in due time.
 ​
 ## **Future-Enhancements**
 ​
-A webpage is a living beast it's going to evolve past the initial stages of release generally, it's always good to discuss where you this the page may go in the future
-​
-* At the time of making this page i didn't have the understanding to actual send e-mails from the contact form so intergration with email.js to send e-mails would improve the users experience
-​
-* Due to the subject matter, we have discussed the idea of including a small JS game to engage the user
+* No Javascript was used for the website, so further tecnology can be applied, especially to the form section.
 ​
 ## **Testing Phase**
 ​
-This is the hardest bit of the readme, when we have completed a page we need to discuss testing.
+* Responsiveness - The website was accessed from both Samsung S20 FE and a Iphone 13 Pro Max. For the tablet screens, it was used an Ipad and the big screens were tested on a Macbook Air and on a Dell Latitude. It was checked on a monitor 21' size.
 ​
-Here is a good idea to talk about how and why you have tested with certain tools and validators so here a list of things to talk through
+* Functionality - The main features of the website is the hover effects on the sevices area. When talking with my tutor, he highlighted that, most of the users, will acess the website by mobile, so the hover effect would not make sense. So, that function was also removed for these type of screens.
 ​
-* Responsiveness - How do you test this, dev tools? checking on multiple devices?
-​
-* Functionality - Each feature needs to be tested before something is complete, talk about the process, click each link check each image, does form validation work, if your using javascript or anything else, does it always behave as the user expects
-​
-* Validators - Here include images from w3c html validator and css jigsaw (jshint for js and pep8 for python) and the results that came from it
+* Validators
+
+. HTML [W3C HTML Validator](https://validator.w3.org/)
+
+. CSS - [Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/)
 ​
 ​
 ## **Bugs**
