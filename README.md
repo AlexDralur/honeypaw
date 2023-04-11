@@ -2,7 +2,7 @@
 ## **Site Overview**
 The Honeypaw website was designed having in mind a veterinary shop that also has a petshop. It is located in Douglas, Cork, and it has 12 years in business. It is located in the Shopping Centre, a big spot in the area and it is focused on Corkians who have pets and need a vet to take their animals to and also to buy food, toys or even let them stay on the hotel while they go on holiday.
 
-![Am I responsive screenshot](imagelocation so maybe docs/image.jpg)
+![Am I responsive screenshot](assets/images/honeypaw-responsive-website-screenshot.png)
 ​
 ## Table of contents:
 1. [**Site Overview**](#site-overview)
@@ -107,9 +107,10 @@ The objective of the colors of the site was to bring some joy to the user. Pets 
 * Validators
 
 . HTML [W3C HTML Validator](https://validator.w3.org/)
+![W3C HTML Validator screenshot](assets/images/w3c-html-validator.png)
 
 . CSS - [Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/)
-​
+​![Jigsaw CSS Validator screenshot](assets/images/w3c-css-validator.png)
 ​
 ## **Bugs**
 ​
