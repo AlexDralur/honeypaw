@@ -116,28 +116,22 @@ Here is a good idea to talk about how and why you have tested with certain tools
 ​
 ## **Bugs**
 ​
-We always have bugs in development, a few bullet points here to talk about bugs you found and how you fixed them, in later projects this will be more detailed
-​
-* Issue - When on mobile the user had horizontal scroll with items overflowing
-* Cause - The images had absolute positioning and caused them to go off screen
-* Resolution - Changed the width of the image to stay within the confines of the screen.
+Two main issues found when the project was being built was in relation to the div with the text above the hero image. Depending on the screen size, diferent styles had to be applied, especially on big screens, where the text would disappear on the background. To fix the issue, another div was added between the other ones to provide shading when on big screens.
 ​
 ***
 ## **Deployment**
 I deployed the page on GitHub pages via the following procedure: -
 ​
-1. From the project's [repository](pageurl), go to the **Settings** tab.
+1. From the project's [repository](https://github.com/AlexDralur/honeypaw), go to the **Settings** tab.
 2. From the left-hand menu, select the **Pages** tab.
 3. Under the **Source** section, select the **Main** branch from the drop-down menu and click **Save**.
 4. A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
 ​
-You  can find the live site via the following URL - [live webpage](https://yoururlhere)
+You  can find the live site via the following URL - [live webpage](https://alexdralur.github.io/honeypaw/)
 ***
 ​
 ## **Tech**
-​
-Here mention what technologies you've used for example
-​
+​​
 - HTML
 - CSS
 ​
@@ -148,16 +142,22 @@ It's always nice to mention those that helped you get there, if people gave you 
 ​
 ### **Content:**
 ​
-If you took any code from online source and by this i mean copy paste with zero changes mention it here!
+. Social media icons from footer took from FontAwesome.
+
+. Social media HTML structure took from the Love Running project from Code Institute.
   
 ### **Media:**
 ​
 Hero-image: <a href="https://www.freepik.com/free-psd/group-portrait-adorable-puppies_3730286.htm#query=PETS&position=3&from_view=search&track=sph">Image by rawpixel.com</a> on Freepik
 
 Services images:
+
 . <a href="https://www.freepik.com/free-photo/happy-female-vet-smiling-petting-beautiful-beagle-dog-exam-table-professional-veterinarian-man-holding-pet-while-examining-healthy-pet-clinic_27999717.htm#query=veterinary&position=0&from_view=search&track=sph">Image by tonodiaz</a> on Freepik
+
 . Image by <a href="https://www.freepik.com/free-photo/side-view-woman-washing-dog_31231627.htm#query=dog%20bath&position=43&from_view=search&track=ais">Freepik</a>
+
 . <a href="https://www.freepik.com/free-photo/haircuting-process-small-dog-sits-table-dog-with-professional_17066326.htm#query=dog%20grooming&position=4&from_view=search&track=ais">Image by prostooleh</a> on Freepik
+
 . <a href="https://www.freepik.com/free-photo/dog-bed-morning_6978017.htm#query=hotel%20dog&position=26&from_view=search&track=ais">Image by Racool_studio</a> on Freepik
 
 Contact us image: <a href="https://www.freepik.com/free-vector/abstract-pattern-design_1049012.htm#query=pet%20patterny&position=0&from_view=search&track=ais">Image by flatart</a> on Freepiks
