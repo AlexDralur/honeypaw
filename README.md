@@ -14,6 +14,7 @@ The Honeypaw website was designed having in mind a veterinary shop that also has
     * [***Typography**](#typography)
 1. [**Current Features Common to all pages**](#current-features-common-to-all-pages)
     * [***Header Element:***](#header-element)
+    * [***About Us:***](#about-us)   
     * [***Services***](#services)
     * [***Contact Us***](#services)
     * [**Footer**](#footer)
@@ -74,6 +75,13 @@ The objective of the colors of the site was to bring some joy to the user. Pets 
 * Each area, when hovered, changes color to provide clarity that it will bring the user to that section
 * Due to the conciseness of the website, there was no necessity of changing the structure of the header depending on the screen size.
 ![Navigation Bar screenshot](assets/images/navigation-bar-screenshot.png)
+
+#### *About Us:*
+
+* There are four main services in Honeypaw: veterinary appointments, bath, grooming and the hotel.
+* Each one of them has specific working hours.
+* When viewed on tablet screens or higher, each service has a hover effect that only shows the days/hours when the mouse hover each one.
+![Services screenshot](assets/images/services-section-screenshot.png)
 
 #### *Services:*
 
