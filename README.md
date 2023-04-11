@@ -78,10 +78,9 @@ The objective of the colors of the site was to bring some joy to the user. Pets 
 
 #### *About Us:*
 
-* There are four main services in Honeypaw: veterinary appointments, bath, grooming and the hotel.
-* Each one of them has specific working hours.
-* When viewed on tablet screens or higher, each service has a hover effect that only shows the days/hours when the mouse hover each one.
-![Services screenshot](assets/images/services-section-screenshot.png)
+* There are two parts to the About Us section: a hero image and a text description about Honeypaw.
+* The hero image also has a text that appears on top of the image.
+![About Us screenshot](assets/images/about-us-section-screenshot.png)
 
 #### *Services:*
 
