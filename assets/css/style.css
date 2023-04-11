@@ -402,7 +402,7 @@ button:hover{
 
 @media screen and (min-width: 1025px){
 
-    /* contact us section */
+    /* About us section */
 
     .row-about-us{
         height: fit-content;
@@ -421,7 +421,7 @@ button:hover{
    }
 
    .col-50-text{
-    width: 550px;
+    width: 400px;
     height: 300px;
     padding: 0;
     position: absolute;
