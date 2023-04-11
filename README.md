@@ -1,21 +1,21 @@
 # **HONEWPAY**
 ## **Site Overview**
-SDSDSDS
+The Honeypaw website was designed having in mind a veterinary shop that also has a petshop. It is located in Douglas, Cork, and it has 12 years in business. It is located in the Shopping Centre, a big spot in the area and it is focused on Corkians who have pets and need a vet to take their animals to and also to buy food, toys or even let them stay on the hotel while they go on holiday.
 
 ![Am I responsive screenshot](imagelocation so maybe docs/image.jpg)
 ​
 ## Table of contents:
-1. [**Site Overview**](#site-overview)H
+1. [**Site Overview**](#site-overview)
 1. [**Planning stage**](#planning-stage)
     * [***Target Audiences***](#target-audiences)
     * [***User Stories***](#user-stories)
     * [***Site Aims***](#site-aims)
-    * [***Wireframes***](#wireframes)
     * [***Color Scheme***](#color-scheme)
     * [***Typography**](#typography)
 1. [**Current Features Common to all pages**](#current-features-common-to-all-pages)
     * [***Header Element:***](#header-element)
-    * [***The rest of your features***](#features)
+    * [***Services***](#services)
+    * [***Contact Us***](#services)
     * [**Footer**](#footer)
 1. [**Future-Enhancements**](#future-enhancements)
 1. [**Testing Phase**](#testing-phase)
@@ -30,11 +30,9 @@ SDSDSDS
 ## **Planning stage**
 ### **Target Audiences:**
 ​
-This section is a breakdown of the target audience 3 or 4 bullet points so using our example
-​
-* Users interested in retro gaming 
-* Users interested in a safe environment to gather and have fun
-* Users interested in activities in the Sheffield area
+* Users interested in petshops.
+* Users interested in veterinarians in Cork.
+* Users interested in pets.
 ​
 ### **User Stories:**
 ​
@@ -48,43 +46,49 @@ User stories are more what the user wants from the site in terms of features and
 ### **Site Aims:**
 ​
 This is optional but offers the insight into what the aim of the project are
-​
-* To inform the user on opening times
-* To inform the user about what we offer when they are here
-* To offer the user an oppertunity to get in contact
-​
-​
-### **Wireframes:**
-​
-These are optional if you have any drawings or diagrams about how the site is intended to look include them here
+
+* To provide an trustworthy veterinarians in Cork with over 10 years in business.
+* To inform which type of services Honeypaw offers.
+* To inform where the users can find us.
+* To offer the user an oppertunity to get in contact.
 ​
 ### **Color Scheme:**
 ​
-Here discuss about the colours you have chosen for the design and the reasoning behind it, make sure to include hash values as well!
-​
-For the page we decided on a black (#000) and red theme (#a red hash i can't remember one) to hark back to the designs of the Sega megadrive which is symbolic of the retro gaming scene blah blah bull shit goes here
+The objective of the colors of the site was to bring some joy to the user. Pets are always related to happiness, so (#3B3561) was used for the main backgrounds and (#59B3B3) was used for the the text and social media icons.
 ​
 ## **Typography**
 ​
-Here is a chance to discuss the fonts used and again why, doesn't need to be crazy detail
-​
 * Throughout the page, there are three fonts used:
-  * Oswald - For the title to give it a strong presence.
-  * DM sans - For all other headings including the navbar. 
-  * Open sans - for all content text.
+  * Rubik - For the logo. It gives a strong image, however, does not seems distant or impersonal.
+  * Poppins - For all the other text in the website.
 ​
-* DM and Open sans were both selected to complement each other and because they have a soft appearance which I thought best suited to the site
+* Both fonts were used to complement eachother. They provide clean visuals regardless of the screensize.
 * All fonts were sourced from Google fonts, as stated in the credits.
 ​
 ## **Current Features Common to all pages**
 ​
 #### *Navigation Bar:*
-This is an example of the features section, your going to talk about each section of the page and what it offers for the navbar for example
+
+* The navigation bar is divided in two sections: the logo and the areas of the page
+* Each area, when hovered, changes color to provide clarity that it will bring the user to that section
+* Due to the conciseness of the website, there was no necessity of changing the structure of the header depending on the screen size.
+
+#### *Services:*
+
+* There are four main services in Honeypaw: veterinary appointments, bath, grooming and the hotel.
+* Each one of them has specific working hours.
+* When viewed on tablet screens or higher, each service has a hover effect that only shows the days/hours when the mouse hover each one.
+
+#### *Contact Us:*
+
+* The contact us section is divided in two mini-sections: a form and a Google Maps iframe.
+* On the form, the users can send their queries about each one of the services provided, or other if it is beyond that. They must provide a valid email and they must fill out the name and textarea to be able to send the message.
+* On the iframe it is displayed the location of the Douglas Shopping Centre and right above it there is the typed details.
 ​
-* The user is given links to each section of the page
-* Each option is presented in a way that is always obvious and reable
-* on smaller screens a hamburger menu is provided to ensure mobile users have an optimal experience
-​
+#### *Footer:*
+
+* The footer has the logos for the main social media plataforms: Facebook, Twitter, Instagram and Youtube, with links that opens new tabs when clicked.
+
 #### *features
 ​
 * This is where you will place all of your features think about each section of the page include a screenshot and a few bullet points on how it's presented and why
