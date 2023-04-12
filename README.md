@@ -2,7 +2,7 @@
 ## **Site Overview**
 The Honeypaw website was designed having in mind a veterinary shop that also has a petshop. It is located in Douglas, Cork, and it has 12 years in business. It is located in the Shopping Centre, a big spot in the area and it is focused on Corkians who have pets and need a vet to take their animals to and also to buy food, toys or even let them stay on the hotel while they go on holiday.
 
-![Am I responsive screenshot](assets/images/honeypaw-responsive-website-screenshot.png)
+![Am I responsive screenshot](assets/docs/images/honeypaw-responsive-website-screenshot.png)
 ​
 ## Table of contents:
 1. [**Site Overview**](#site-overview)
@@ -37,9 +37,7 @@ The Honeypaw website was designed having in mind a veterinary shop that also has
 * Users interested in pets.
 ​
 ### **User Stories:**
-​
-User stories are more what the user wants from the site in terms of features and presentation
-​
+​​
 * As a user, I want to see the subject matter of the page.
 * As a user, I want to navigate the page to find what I require quickly and easily.
 * As a user, I want to learn more about what the business offers
@@ -47,8 +45,6 @@ User stories are more what the user wants from the site in terms of features and
 ​
 ### **Site Aims:**
 ​
-This is optional but offers the insight into what the aim of the project are
-
 * To provide an trustworthy veterinarians in Cork with over 10 years in business.
 * To inform which type of services Honeypaw offers.
 * To inform where the users can find us.
@@ -74,36 +70,43 @@ The objective of the colors of the site was to bring some joy to the user. Pets 
 * The navigation bar is divided in two sections: the logo and the areas of the page
 * Each area, when hovered, changes color to provide clarity that it will bring the user to that section
 * Due to the conciseness of the website, there was no necessity of changing the structure of the header depending on the screen size.
-![Navigation Bar screenshot](assets/images/navigation-bar-screenshot.png)
+
+![Navigation Bar screenshot](assets/docs/images/navigation-bar-screenshot.png)
 
 #### *About Us:*
 
 * There are two parts to the About Us section: a hero image and a text description about Honeypaw.
 * The hero image also has a text that appears on top of the image.
-![About Us screenshot](assets/images/about-us-section-screenshot.png)
+
+![About Us screenshot](assets/docs/images/about-us-section-screenshot.png)
 
 #### *Services:*
 
 * There are four main services in Honeypaw: veterinary appointments, bath, grooming and the hotel.
 * Each one of them has specific working hours.
 * When viewed on tablet screens or higher, each service has a hover effect that only shows the days/hours when the mouse hover each one.
-![Services screenshot](assets/images/services-section-screenshot.png)
+
+![Services screenshot](assets/docs/images/services-section-screenshot.png)
 
 #### *Contact Us:*
 
 * The contact us section is divided in two mini-sections: a form and a Google Maps iframe.
 * On the form, the users can send their queries about each one of the services provided, or other if it is beyond that. They must provide a valid email and they must fill out the name and textarea to be able to send the message.
 * On the iframe it is displayed the location of the Douglas Shopping Centre and right above it there is the typed details.
-![Contact Us screenshot](assets/images/contact-us-section-screenshot.png)
+
+![Contact Us screenshot](assets/docs/images/contact-us-section-screenshot.png)
 ​
 #### *Footer:*
 
 * The footer has the logos for the main social media plataforms: Facebook, Twitter, Instagram and Youtube, with links that opens new tabs when clicked.
-![Footer screenshot](assets/images/footer-screenshot.png)
+
+![Footer screenshot](assets/docs/images/footer-screenshot.png)
 
 #### *Thank You:*
 
 * After the user fills out the form and press send, they are taken to the thank you where they are informed that the message has been sent to the company and that it will be checked in due time.
+
+![Thank You screenshot](assets/docs/images/thankyou-screenshot.png)
 ​
 ## **Future-Enhancements**
 ​
@@ -118,10 +121,10 @@ The objective of the colors of the site was to bring some joy to the user. Pets 
 * Validators
 
 . HTML [W3C HTML Validator](https://validator.w3.org/)
-![W3C HTML Validator screenshot](assets/images/w3c-html-validator.png)
+![W3C HTML Validator screenshot](assets/docs/images/w3c-html-validator.png)
 
 . CSS - [Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/)
-​![Jigsaw CSS Validator screenshot](assets/images/w3c-css-validator.png)
+​![Jigsaw CSS Validator screenshot](assets/docs/images/w3c-css-validator.png)
 ​
 ## **Bugs**
 ​
