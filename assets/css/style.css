@@ -219,6 +219,7 @@ select{
     border-radius: 20px;
     border: 1px solid #000;
     padding-left: 10px;
+    width: 85%;
 }
 
 button{
