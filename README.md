@@ -114,7 +114,27 @@ The objective of the colors of the site was to bring some joy to the user. Pets 
 ​
 ## **Testing Phase**
 ​
-* Responsiveness - The website was accessed from both Samsung S20 FE and a Iphone 13 Pro Max. For the tablet screens, it was used an Ipad and the big screens were tested on a Macbook Air and on a Dell Latitude. It was checked on a monitor 21' size.
+* Responsiveness - To ensure that the responsiveness of the website was the best possible, to project was built having the mobile access as the base of the design. The initial tests were made on the mobile, extensively and in diferent models, to confirm that the website was delivering what it was proposed.
+
+    On mobile, the website was tested on the following devices:
+    * Samsung 20FE
+    * Iphone 13 Pro Max
+
+    No issues were noted upon project completion.
+
+    On tablets, the website was tested on the following device:
+    * Ipad Air 4
+
+    No issues were noted upon project completion.
+
+    On notebooks, the website was tested on the following devices:
+    * Dell Latitute 15
+    * Macbook Air
+
+    No issues were noted upon project completion.
+
+    For the desktop tests, an Asus VX228 monitor was also used.
+    No issues were noted upon project completion.
 ​
 * Functionality - The main features of the website is the hover effects on the sevices area. When talking with my tutor, he highlighted that, most of the users, will acess the website by mobile, so the hover effect would not make sense. So, that function was also removed for these type of screens.
 ​
@@ -146,14 +166,13 @@ You  can find the live site via the following URL - [live webpage](https://alexd
 ***
 ​
 ## **Tech**
-​​
 - HTML
 - CSS
 ​
 ## **Credits**
 ### **Honorable mentions**
-​
-It's always nice to mention those that helped you get there, if people gave you support on slack or the local cat scared you into completing give them a mention!
+* Larissa Moura (my wife) - She was my tester and also my design guru.
+* Richard Wells (my Code Institute tutor) - Help me throughout the project in all aspects.
 ​
 ### **Content:**
 ​
