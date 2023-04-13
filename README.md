@@ -125,6 +125,9 @@ The objective of the colors of the site was to bring some joy to the user. Pets 
 
 . CSS - [Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/)
 ​![Jigsaw CSS Validator screenshot](assets/docs/images/w3c-css-validator.png)
+
+. Google Lighthouse
+​![Google Lighthouse screenshot](assets/docs/images/lighthouse-screenshot.png)
 ​
 ## **Bugs**
 ​
