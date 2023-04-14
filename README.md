@@ -11,14 +11,14 @@ The Honeypaw website was designed having in mind a veterinary shop that also has
     * [***User Stories***](#user-stories)
     * [***Site Aims***](#site-aims)
     * [***Color Scheme***](#color-scheme)
-    * [***Typography**](#typography)
-1. [**Current Features Common to all pages**](#current-features-common-to-all-pages)
-    * [***Header Element:***](#header-element)
-    * [***About Us:***](#about-us)   
+    * [***Typography***](#typography)
+1. [**Current Features**](#current-features)
+    * [***Header Element***](#header-element)
+    * [***About Us***](#about-us)   
     * [***Services***](#services)
     * [***Contact Us***](#services)
-    * [**Footer**](#footer)
-    * [**Thank You**](#thankyou)
+    * [***Footer***](#footer)
+    * [***Thank You***](#thankyou)
 1. [**Future-Enhancements**](#future-enhancements)
 1. [**Testing Phase**](#testing-phase)
 1. [**Deployment**](#deployment)
@@ -31,20 +31,17 @@ The Honeypaw website was designed having in mind a veterinary shop that also has
 ​
 ## **Planning stage**
 ### **Target Audiences:**
-​
 * Users interested in petshops.
 * Users interested in veterinarians in Cork.
 * Users interested in pets.
 ​
 ### **User Stories:**
-​​
 * As a user, I want to see the subject matter of the page.
 * As a user, I want to navigate the page to find what I require quickly and easily.
 * As a user, I want to learn more about what the business offers
 * As a user, I want to reach out and contact the business
 ​
 ### **Site Aims:**
-​
 * To provide an trustworthy veterinarians in Cork with over 10 years in business.
 * To inform which type of services Honeypaw offers.
 * To inform where the users can find us.
@@ -52,23 +49,23 @@ The Honeypaw website was designed having in mind a veterinary shop that also has
 ​
 ### **Color Scheme:**
 ​
-The objective of the colors of the site was to bring some joy to the user. Pets are always related to happiness, so (#3B3561) was used for the main backgrounds and (#59B3B3) was used for the the text and social media icons.
+The objective of the colors of the site was to bring some joy to the user. Pets are always related to happiness, so (#3B3561) was used for the main backgrounds and (#59B3B3) was used for the the text and social media icons. Variations of the colors were used to provide better accessibility. The two cases are: the h2 in the about us section (#4D9B9B) and the color of the text inside the spans (#51A3A3).
 ​
 ## **Typography**
 ​
-* Throughout the page, there are three fonts used:
+* Throughout the page, there are two fonts used:
   * Rubik - For the logo. It gives a strong image, however, does not seems distant or impersonal.
   * Poppins - For all the other text in the website.
 ​
 * Both fonts were used to complement eachother. They provide clean visuals regardless of the screensize.
 * All fonts were sourced from Google fonts, as stated in the credits.
 ​
-## **Current Features Common to all pages**
+## **Current Features**
 ​
 #### *Navigation Bar:*
 
-* The navigation bar is divided in two sections: the logo and the areas of the page
-* Each area, when hovered, changes color to provide clarity that it will bring the user to that section
+* The navigation bar is divided in two sections: the logo and the areas of the page.
+* Each area, when hovered, changes color to provide clarity that it will bring the user to that section.
 * Due to the conciseness of the website, there was no necessity of changing the structure of the header depending on the screen size.
 
 ![Navigation Bar screenshot](assets/docs/images/navigation-bar-screenshot.png)
@@ -165,6 +162,10 @@ Resolution✅: Images were compressed and the size reduced.​
 Problem 🐞: Services headings unreadable.
 Cause🛠: The background images are composed from different elements and colors.
 Resolution✅: An span was added on the headings to provide a background color.
+***
+Problem 🐞: Low score on Google Lighthouse.
+Cause🛠: Headers on the about us and services sections unreadable.
+Resolution✅: Colors of the texts were slightly changed.
 ***
 
 ## **Deployment**
