@@ -110,7 +110,7 @@ The objective of the colors of the site was to bring some joy to the user. Pets 
 ​
 ## **Future-Enhancements**
 ​
-* No Javascript was used for the website, so further tecnology can be applied, especially to the form section.
+* Since, at this point, I do not have knowledge in Javascript, the form is not functional, other than redirecting the user to the thank you page. My intention is to return to the project and add the funcionality to this area of the page.
 ​
 ## **Testing Phase**
 ​
@@ -136,7 +136,10 @@ The objective of the colors of the site was to bring some joy to the user. Pets 
     For the desktop tests, an Asus VX228 monitor was also used.
     No issues were noted upon project completion.
 ​
-* Functionality - The main features of the website is the hover effects on the sevices area. When talking with my tutor, he highlighted that, most of the users, will acess the website by mobile, so the hover effect would not make sense. So, that function was also removed for these type of screens.
+* Functionality - 
+    * All the links on the navigation bar redirect to the correct sections of the page in a smooth transition.
+    * Each image of the services section, when hovered on big screens, have an hoover effect.
+    * In the form section, the name, email (inputs) and textarea are required if the user decides to send a message.
 ​
 * Validators
 
