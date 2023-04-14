@@ -152,19 +152,27 @@ The objective of the colors of the site was to bring some joy to the user. Pets 
 ## **Bugs**
 
 Problem 🐞: Text on the hero-image unreadable on big screens.
+
 Cause🛠: The location of the text on big screens was on the white area of the image.
+
 Resolution✅: Another div was added in-between to provide shading when on big screens.
 *** 
 Problem 🐞: Page taking too long to load and impacting the performance.
+
 Cause🛠: The original image files were too large.
+
 Resolution✅: Images were compressed and the size reduced.​
 ***
 Problem 🐞: Services headings unreadable.
+
 Cause🛠: The background images are composed from different elements and colors.
+
 Resolution✅: An span was added on the headings to provide a background color.
 ***
 Problem 🐞: Low score on Google Lighthouse.
+
 Cause🛠: Headers on the about us and services sections unreadable.
+
 Resolution✅: Colors of the texts were slightly changed.
 ***
 
