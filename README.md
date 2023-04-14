@@ -114,7 +114,7 @@ The objective of the colors of the site was to bring some joy to the user. Pets 
 ​
 ## **Testing Phase**
 ​
-* Responsiveness - To ensure that the responsiveness of the website was the best possible, to project was built having the mobile access as the base of the design. The initial tests were made on the mobile, extensively and in diferent models, to confirm that the website was delivering what it was proposed.
+* Responsiveness - To ensure that the responsiveness of the website was the best possible, to project was built having the mobile access as the base of the design. The initial tests were made on the mobile, extensively and in different models, to confirm that the website was delivering what it was proposed.
 
     On mobile, the website was tested on the following devices:
     * Samsung 20FE
@@ -153,10 +153,20 @@ The objective of the colors of the site was to bring some joy to the user. Pets 
 ​![Google Lighthouse screenshot](assets/docs/images/lighthouse-screenshot.png)
 ​
 ## **Bugs**
-​
-Two main issues found when the project was being built was in relation to the div with the text above the hero image. Depending on the screen size, diferent styles had to be applied, especially on big screens, where the text would disappear on the background. To fix the issue, another div was added between the other ones to provide shading when on big screens.
-​
+
+Problem 🐞: Text on the hero-image unreadable on big screens.
+Cause🛠: The location of the text on big screens was on the white area of the image.
+Resolution✅: Another div was added in-between to provide shading when on big screens.
+*** 
+Problem 🐞: Page taking too long to load and impacting the performance.
+Cause🛠: The original image files were too large.
+Resolution✅: Images were compressed and the size reduced.​
 ***
+Problem 🐞: Services headings unreadable.
+Cause🛠: The background images are composed from different elements and colors.
+Resolution✅: An span was added on the headings to provide a background color.
+***
+
 ## **Deployment**
 I deployed the page on GitHub pages via the following procedure: -
 ​
